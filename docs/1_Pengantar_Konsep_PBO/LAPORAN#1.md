@@ -16,7 +16,7 @@ Selama saya mengerjakan, cukup rumit:(
 
 Didalam percobaan ini, kita akan mendemonstrasikan bagaimana membuat class, membuat object, kemudian mengakses method didalam class tersebut.
 
-![1](img/1.jpg)
+![1](img/1.JPG)
 
 [source code class sepeda](../../src/1_Pengantar_Konsep_PBO/1.java)
 
