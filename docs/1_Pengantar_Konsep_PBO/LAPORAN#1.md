@@ -26,7 +26,7 @@ Didalam percobaan ini, kita akan mendemonstrasikan bagaimana membuat class, memb
 
 Didalam percobaan ini, akan didemonstrasikan salah satu fitur yang paling penting dalam PBO, yaitu inheritance. Disini kita akan membuat class SepedaGunung yang mana adalah turunan/warisan dari class Sepeda. Pada dasarnya class SepedaGunung adalah sama dengan class Sepeda, hanya saja pada sepeda gunung terdapat tipe suspensi. Untuk itu kita tidak perlu membuat class Sepeda Gunung dari nol, tapi kita wariskan saja class Sepeda ke class SepedaGunung.
 
-[](img/2.JPG)
+![2](img/2.JPG)
 
 [source code class sepedaGunung](../../src/1_Pengantar_Konsep_PBO/2.java)
 
@@ -63,7 +63,7 @@ Kecepatan,gear,merek
 5.	Tambahkan atribut warna pada class Sepeda. 
 Jawab : 
 
-[](img/pertanyaan.JPG)
+![pertanyaan](img/pertanyaan.JPG)
 
 ## Tugas
 
