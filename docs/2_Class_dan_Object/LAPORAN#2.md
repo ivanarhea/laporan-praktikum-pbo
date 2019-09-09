@@ -32,7 +32,7 @@ Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap 
 
 1.Gambarkan desain class diagram dari studi kasus 1!,
 
-![1](img/1.JPG)
+![ss](img/1.jpg)
 
 2.Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!
 -   Class Karyawan dan Class TestKaryawan
