@@ -30,9 +30,9 @@ Studi Kasus 1:
 
 Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap karyawan memiliki id, nama, jenis kelamin, jabatan, jabatan, dan gaji. Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 
-1.Gambarkan desain class diagram dari studi kasus 1!,
+1.Gambarkan desain class diagram dari studi kasus 1!
 
-![ss](img/1.jpg)
+![ss](img/1.JPG)
 
 2.Sebutkan Class apa saja yang bisa dibuat dari studi kasus 1!
 -   Class Karyawan dan Class TestKaryawan
