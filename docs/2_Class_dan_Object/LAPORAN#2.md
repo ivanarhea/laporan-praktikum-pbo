@@ -49,7 +49,7 @@ Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap 
 
 ![ss](img/2.JPG)
 
-Link kode program : [Mahasiswa1841720189Rhea.java](../../src/2_Class_dan_Object/1.java)
+Link kode program : [Mahasiswa1841720189Rhea.java](2_Class_dan_Object/1.java)
 
 - Class main, TestMahasiswa1841720189Rhea.java
 ![ss](img/3.JPG)
