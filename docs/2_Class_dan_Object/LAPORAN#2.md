@@ -123,7 +123,6 @@ Link kode program : [TestToko.java](2_Class_dan_Object/7.java)
 
     
 Link kode program : [Lingkaran1841720189Rhea.java](2_Class_dan_Object/8.java)
-
     ![ss](img/15.JPG)
 
 Link kode program : [TestLingkaran.java](2_Class_dan_Object/9.java)
