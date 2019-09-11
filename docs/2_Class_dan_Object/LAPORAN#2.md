@@ -49,12 +49,12 @@ Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap 
 
 ![ss](img/2.JPG)
 
-Link kode program : [Mahasiswa1841720189Rhea.java](2_Class_dan_Object/1.java)
+Link kode program : [Mahasiswa1841720189Rhea.java](../../src/2_Class_dan_Object/1.java)
 
 - Class main, TestMahasiswa1841720189Rhea.java
 ![ss](img/3.JPG)
 
-Link kode program : [TestMahasiswa.java](2_Class_dan_Object/2.java)
+Link kode program : [TestMahasiswa.java](../../src/2_Class_dan_Object/2.java)
 
 7. Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
 -  Pada class Mahasiswa18417200189Rhea.java
@@ -83,7 +83,7 @@ Link kode program : [TestMahasiswa.java](2_Class_dan_Object/2.java)
 
     ![ss](img/8.JPG)
 
-Link kode program : [TestMahasiswa.java](2_Class_dan_Object/3.java)
+Link kode program : [TestMahasiswa.java](../../src/2_Class_dan_Object/3.java)
 
 ### Percobaan 3 : Menulis method yang memiliki argument/parameter dan memiliki return
 
@@ -91,12 +91,12 @@ Link kode program : [TestMahasiswa.java](2_Class_dan_Object/3.java)
 
     ![ss](img/9.JPG)
 
-Link kode program : [Barang1841720189Rhea.java](2_Class_dan_Object/4.java)
+Link kode program : [Barang1841720189Rhea.java](../../src/2_Class_dan_Object/4.java)
 
 - Class main, TestBarang1841720046Reza.java
     ![ss](img/10.JPG)
 
-Link kode program : [TestBarang.java](2_Class_dan_Object/5.java)
+Link kode program : [TestBarang.java](../../src/2_Class_dan_Object/5.java)
 
 7. Apakah fungsi argumen dalam suatu method?
 -  Untuk memberikan nilai pada suatu method 
@@ -111,21 +111,21 @@ Link kode program : [TestBarang.java](2_Class_dan_Object/5.java)
 2. Class Toko1841720189Rhea.java
     ![ss](img/12.JPG)
 
-Link kode program : [Toko1841720189Rhea.java](2_Class_dan_Object/6.java)
+Link kode program : [Toko1841720189Rhea.java](../../src/2_Class_dan_Object/6.java)
 
 - Class main, TestToko.java 
     ![ss](img/13.JPG)
 
-Link kode program : [TestToko.java](2_Class_dan_Object/7.java)
+Link kode program : [TestToko.java](../../src/2_Class_dan_Object/7.java)
 
 3. Buatlah program sesuai dengan class diagram berikut ini:
     ![ss](img/14.JPG)
 
     
-Link kode program : [Lingkaran1841720189Rhea.java](2_Class_dan_Object/8.java)
+Link kode program : [Lingkaran1841720189Rhea.java](../../src/2_Class_dan_Object/8.java)
     ![ss](img/15.JPG)
 
-Link kode program : [TestLingkaran.java](2_Class_dan_Object/9.java)
+Link kode program : [TestLingkaran.java](../../src/2_Class_dan_Object/9.java)
 
 4.	Buatlah program sesuai dengan class diagram berikut ini: 
  
@@ -137,11 +137,11 @@ Link kode program : [TestLingkaran.java](2_Class_dan_Object/9.java)
 
     ![ss](img/16.JPG)
 
-    Link kode program : [BarangTugas1841720189Rhea.java](2_Class_dan_Object/10.java)
+    Link kode program : [BarangTugas1841720189Rhea.java](../../src/2_Class_dan_Object/10.java)
 
     ![ss](img/17.JPG)
 
-    Link kode program : [TestBarangTugas.java](2_Class_dan_Object/11.java)
+    Link kode program : [TestBarangTugas.java](../../src/2_Class_dan_Object/11.java)
 
 ## Kesimpulan
 - Kita dapat mendemonstrasikan bagaimana membuat class dan object dengan baik dan benar
